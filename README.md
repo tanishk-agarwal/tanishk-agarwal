@@ -8,7 +8,7 @@ I am a full stack developer currently based on PERN stack. I am keen interested 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [tanishkagarwal09@gmail.com](mailto:tanishkagarwal09@gmail.com)
-* 🚀  I'm currently working on [JobIT](https://github.com/tanishk-agarwal/JobIT)
+* 🚀  I'm currently working as a SWE intern at Microsoft
 * 🧠  I'm learning Advanced Front-End and Back-End frameworks such as React, Firebase, Next.js,..etc
 * 🤝  I'm open to collaborating on Open Source Projects based on Javascript
 
